@@ -33,7 +33,7 @@ def generate_random_numbers_old(n: int = 15) -> list:
         result.append(random.randint(1, 83))
         i += 1
     return result
-"change"
+"change 1"
 
 
 def generate_random_numbers(n: int = 15) -> List[int]:
