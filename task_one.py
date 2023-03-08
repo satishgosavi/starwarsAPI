@@ -34,6 +34,7 @@ def generate_random_numbers_old(n: int = 15) -> list:
         i += 1
     return result
 "change by me"
+main
 
 
 def generate_random_numbers(n: int = 15) -> List[int]:
